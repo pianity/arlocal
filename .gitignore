@@ -108,7 +108,7 @@ dist
 .blocksdb
 db.sqlite
 .DS_Store
-bin
+# bin
 .idea
 .db
 .vscode
